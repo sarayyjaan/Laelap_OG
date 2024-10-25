@@ -1,0 +1,90 @@
+01: errors: 0
+01: sensitivity: 100.0
+Delay: 28.5
+Identified Seizures: 1
+Tested seizures: 1
+02: errors: 0
+02: sensitivity: 100.0
+Delay: 16.5
+Identified Seizures: 1
+Tested seizures: 1
+03: errors: 0
+03: sensitivity: 100.0
+Delay: 17.0
+Identified Seizures: 3
+Tested seizures: 3
+04: errors: 0
+04: sensitivity: 66.66666666666666
+Delay: 19.75
+Identified Seizures: 8
+Tested seizures: 12
+05: errors: 0
+05: sensitivity: 100.0
+Delay: 5.333333333333333
+Identified Seizures: 3
+Tested seizures: 3
+06: errors: 0
+06: sensitivity: 85.71428571428571
+Delay: 17.928571428571427
+Identified Seizures: 6
+Tested seizures: 7
+07: errors: 0
+07: sensitivity: 50.0
+Delay: 17.25
+Identified Seizures: 1
+Tested seizures: 2
+08: errors: 0
+08: sensitivity: 100.0
+Delay: 11.0
+Identified Seizures: 2
+Tested seizures: 2
+09: errors: 0
+09: sensitivity: 80.95238095238095
+Delay: 8.571428571428571
+Identified Seizures: 17
+Tested seizures: 21
+10: errors: 0
+10: sensitivity: 100.0
+Delay: 17.40625
+Identified Seizures: 16
+Tested seizures: 16
+11: errors: 0
+11: sensitivity: 100.0
+Delay: 19.5
+Identified Seizures: 1
+Tested seizures: 1
+12: errors: 0
+12: sensitivity: 100.0
+Delay: 36.285714285714285
+Identified Seizures: 7
+Tested seizures: 7
+13: errors: 0
+13: sensitivity: 80.0
+Delay: 21.1
+Identified Seizures: 4
+Tested seizures: 5
+14: errors: 0
+14: sensitivity: 0.0
+Delay: 0.0
+Identified Seizures: 0
+Tested seizures: 1
+15: errors: 0
+15: sensitivity: 100.0
+Delay: 20.0
+Identified Seizures: 1
+Tested seizures: 1
+16: errors: 0
+16: sensitivity: 100.0
+Delay: 20.375
+Identified Seizures: 4
+Tested seizures: 4
+17: errors: 0
+17: sensitivity: 100.0
+Delay: 19.0
+Identified Seizures: 1
+Tested seizures: 1
+18: errors: 0
+18: sensitivity: 75.0
+Delay: 25.75
+Identified Seizures: 3
+Tested seizures: 4
